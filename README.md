@@ -1,0 +1,2 @@
+# trading
+Operaciones de trading
